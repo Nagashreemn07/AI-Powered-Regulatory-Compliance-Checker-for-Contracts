@@ -1,0 +1,293 @@
+(venv) PS C:\CODE SOURCE\GDPR aggreement> python main.py
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+Document Type: Data Processing Agreement
+inside clause extraction
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1759005240.096277   52688 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.        
+[
+  {
+    "clause_id": "1",
+    "heading": "Appendix - GDPR (EEA and UK)",
+    "text": "During the course of providing Services to, or on behalf of, UC pursuant to the Agreement between UC and Supplier dated ___________ , Supplier may process personal data as defined below . The Parties agree that with respect to the processing of personal dat a pursuant to the Agreement or this Appendix – General Data Protection Regulation (“Appendix GDPR ”), UC is the data controller (and shall hereinafter be referred to as the “Controller”), and Supplier is the data processor (and shall hereinafter be re ferred to as the “Processor”) , as those terms are defined by the applicable law . The Parties have agreed that the Processor will provide the Services to the Controller pursuant to and in accordance with the terms and conditions of the Agreement and this Appendix GDPR . In the event of a conflict between the terms of this Appendix GDPR and the Agreement or any amendment or appendix thereto , the terms of this Appendix GDPR shall govern. Supplier agrees to be bound by the obligations set forth in this Appendix GDPR . To the extent applicable, Supplier also agrees to impose, by written contract, the terms and conditions contained in this Appendix GDPR on any third party retained by Supplier to provide Services for or on behalf of UC."
+  },
+  {
+    "clause_id": "A",
+    "heading": "Definitions",
+    "text": "Capitalized terms used but not defined in this Appendix GDPR will have the meanings set forth in the Agreement. The following terms shall have the meanings set forth herein :"
+  },
+  {
+    "clause_id": "A.1",
+    "heading": "Applicable Data Protection Law",
+    "text": "“Applicable Data Protect ion Law” means the EU General Data Protection Regulation (Regulation 2016/679) (as may be amended, superseded or replaced); and all other supplemental or implementing laws relating to data privacy in the relevant European member state including where appli cable the guidance and codes of practice issued by the relevant supervisory authority ; and the UK General Data Protection Regulation;"
+  },
+  {
+    "clause_id": "A.2",
+    "heading": "Data",
+    "text": "“Data ” means all personal data processed by (or on behalf of) the Processor for the Controller under or in connection with the Agreement, including in the provision of the Services. If Appendix DS applies to this Agreement, “Data” as used herein shall also be c onsidered UC Institutional Information as defined in Appendix DS."
+  },
+  {
+    "clause_id": "A.3",
+    "heading": "Data Subjects’ Rights",
+    "text": "“Data Subjects’ Rights ” means the rights of data subjects as provided in Applicable Data Protection Law including, but not limited to , rights of access, rectification, erasure, restriction o f processing, data portability, objection, and the right not to be subject to automated decision making (including profiling);"
+  },
+  {
+    "clause_id": "A.4",
+    "heading": "EEA",
+    "text": "“EEA” means European Economic Area;"
+  },
+  {
+    "clause_id": "A.5",
+    "heading": "data subject, personal data, personal data breach, process/processing, pseudonymisation, and supervisory authority",
+    "text": "“data subject ,” “personal data ,” “ personal data breach ,” “ process/processing ,” “pseudonymisation ,” and “supervisory authority ,” shall each have the meaning as in the Applicable Data Protection Law ;"
+  },
+  {
+    "clause_id": "A.6",
+    "heading": "Subprocessor",
+    "text": "“Subprocessor ” means any third party: (i) who is engaged by the Processor to carry out specific processing activities relating to Data for or on behalf of the Controller; or (ii) to whom the Processor subcontracts any of its obligations in connection with the Agreement ."
+  },
+  {
+    "clause_id": "A.7",
+    "heading": "UK",
+    "text": "“UK” means the United Kingdom."
+  },
+  {
+    "clause_id": "B",
+    "heading": "Scope of Processing Data",
+    "text": ""
+  },
+  {
+    "clause_id": "B.1",
+    "heading": "Processor shall process Data solely for the purposes of performing the Services",
+    "text": "Processor shall process Data solely for the purposes of performing the Services and for the same duration of the Agreement, except as otherwise agreed to in writing by the Parties. Th e scope and further details of Processor’s processing activities of Data pursuant to the Agreement and Appendix GDPR are set forth in Addendum A to this Appendix GDPR ."
+  },
+  {
+    "clause_id": "B.2",
+    "heading": "To the extent any additional information is required",
+    "text": "To the extent any additional information is required to be included in Addendum A purs uant to Applicable Data Protection Law , or this Agreement otherwise requires amendment, the Parties will cooperate to amend this Appendix GDPR in a writing signed by both Parties ."    
+  },
+  {
+    "clause_id": "C",
+    "heading": "Subprocessors",
+    "text": ""
+  },
+  {
+    "clause_id": "C.1",
+    "heading": "Controller generally authorizes Processor to engage Subprocessor(s)",
+    "text": "Controller generally authorizes Processor to engage Subprocessor(s) to perform any of Processor’s obligations in providing Services to Controller in connection with the Agreement as set forth in Addendum A and as allowed under the terms of the Agreement, except that any processing of personal data by Subpro cessor(s) outside of the United States , UK or EEA must be specifically authorized in writing prior to such processing by Controller ."
+  },
+  {
+    "clause_id": "C.2",
+    "heading": "The Processor shall give the Controller prior written notice",
+    "text": "The Processor shall give the Controller prior written notice of any intended changes concerning the addition or replacement of any Subprocessors set forth in Addendum A to allow the Controller to approve or object to such changes. Such notice shall include details of the processing activity or activities to be conducted by the applicable Subprocessor and the identity and conta ct details of such Subprocessor."   
+  },
+  {
+    "clause_id": "C.3",
+    "heading": "The Processor shall ensure that any Subprocessor approved by Controller",
+    "text": "The Processor shall ensure that any Subprocessor approved by Controller in accordance with this Section C is subject to obligations in a written agreement requiring such Subprocessor to comply with the obligations of this Appendix GDPR . If any Subprocessor fails to fulfil l its data protection obligations, the Processor shall remain fully liable to the Controller for the performance or non - performance of such Subprocessor."
+  },
+  {
+    "clause_id": "C.4",
+    "heading": "Upon request, the Processor shall provide a copy",
+    "text": "Upon request, the Processor shall provide a copy of each Subprocessor agreement entered into pursuant to this Section C to the Controller."
+  },
+  {
+    "clause_id": "D",
+    "heading": "Obligations of the Processor",
+    "text": ""
+  },
+  {
+    "clause_id": "D.1",
+    "heading": "The Processor shall, and shall ensure that each of its employees",
+    "text": "The Processor shall, and shall ensure that each of its employees, approved Subprocessors and any other individual acting under its author ity who has access to the Data : a. process Data in accordance with the terms of this Agreement, Appendix GDPR or any other written instructions of the Controller, and only to the extent and in the manner necessary to provide Services , and for no other p urpose(s) . In the event Applicable Data Protection Law requires Processor to process in a manner not expressly authorized by this Agreement or the Controller’s written instructions, the Processor shall promptly inform the Controller of the applicable legal requirement before processing, unless prohibited from doing so on important public interest grounds, consistent with Applicable Data Protection Law ; b. keep the Data confidential and ensure that any person authorized to process the Data for or on behalf of t he Processor (including but not limited to any Processor employees and 3 4/27/21 staff and approved Subprocessors) ha s agreed to keep the Data confiden tial, or is otherwise under a statutory obligation to protect the confidentiality of the Data; and c. upon reasonable request from the Controller, provide an up -to-date copy of the Data in the format requested by the Controller."
+  },
+  {
+    "clause_id": "D.2",
+    "heading": "In carrying out its obligations under the Agreement",
+    "text": "In carryin g out its obligations under the Agreement and this Appendix GDPR , Processor agrees to comply with all applicable state, federal and laws of other countries or jurisdictions (including, but not limited to, Applicable Data Protection Law ), as well as industry best practices, governing the collection, access, use, disclosur e, safeguarding and destruction of Data."
+  },
+  {
+    "clause_id": "D.3",
+    "heading": "In accordance with Applicable Data Protection Law",
+    "text": "In accordance with Applicable Data Protection Law , and taking into consideration the state of the art, costs of implementation and the nature, scope, context and purposes of processing the Data pursuant to this Agreement , as well as the risks to the rights and freedoms of natural persons and the risks to processing the Data , the Processor represents and warrants that it has implement ed appropriate technical and organizational security measures app ropriate to such risks, including, as appropriate: (i) the pseudonymisation and encryption of the Data; (ii) t he ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services; (iii) the ability to restore the availability of and access to the Data in a timely manner in the event of a physical or technical incident; and (iv) a process for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing. Upon Controller’s request, Processor shall provide to Controller evidence demonstrating Processor’s implementation of such technical and organizational security measures as required by Applicable Data Protection Law ."
+  },
+  {
+    "clause_id": "D.4",
+    "heading": "The Processor shall assist the Controller in ensuring compliance",
+    "text": "The Processor shall assist the Controller in ensuring compliance with Controller’s obligations as a Cont roller by: (a) cooperating with Controller’s implementation of appropriate technical and organizational security measures to ensure the security of processing Data; (b) cooperating with Controller notifications to supervisory authorities and/or data subjec ts, as applicable, of any breaches of Data; (c) cooperating with Controller’s conduct of data protection impact assessments, including but not limited to, any requirements to consult with a supervisory authority as required by Applicable Data Protection La w. Processor shall also cooperate with additional obligations of Controller that may be required of it pursuant to Applicable Data Protection Law ."
+  },
+  {
+    "clause_id": "D.5",
+    "heading": "In the event of any suspected or actual personal data breach",
+    "text": "In the event of any suspected or actual personal data breach, the Processor shall notify the Controller to the individual identified below immediately upon discovery, both orally and in writing, but in no event more than two (2) calendar days after Processor identifies or reasonably believes a personal data breach has or may have occurred. Processor’s notification to the Controller will identify: (i) the nature of the personal data breach , including where possible, the categories and the approximate number of data subjects concerned and the categories and approximate number of personal data records conc erned ; (ii) a description of the likely consequences of the personal data breach ; and (iii) a description of the measures taken or proposed to be taken to address the personal data breach, including where appropriate, measures to mitigate its possible adve rse effects . Processor will provide such other information as reasonably requested by Controller. In the event of a suspected personal data breach, Processor will keep Controller informed regularly of the progress of its investigation until the uncertainty is resolved. 4 4/27/21 In event of suspected or actual personal data breach, the Processor shall notify : Name Phone Email Address "
+  },
+  {
+    "clause_id": "D.6",
+    "heading": "Processor will fully cooperate with Controller’s investigation",
+    "text": "Processor will fully cooperate with Controller’s investigation of any personal data breach, including but not limited to making witnesses and documents available immediately upon Supplier’s reporting of the personal data breach at no cost to Controller."
+  },
+  {
+    "clause_id": "D.7",
+    "heading": "Any personal data breach may be grounds for immediate termination",
+    "text": "Any personal data breach may be grounds for immediate termination of th e Agreement by Controller ."
+  },
+  {
+    "clause_id": "D.8",
+    "heading": "Except for transfers of Data to the Controller",
+    "text": "Except for transfers of Data to the Controller, t he Processor shall not process or transfer any Data to any country outside the UK or EEA except pursuant to prior written approval of the Controller, and at a ll times in compliance with Applicable Data Protection Law and other applicable data protection laws."
+  },
+  {
+    "clause_id": "D.9",
+    "heading": "This section is only applicable if Processor’s Services include the collection",
+    "text": "This section is only applicable if Processor’s Services include the collection of personal data directly from data subjects: In the event Processor’s Services include the collection of personal dat a directly from data subjects that is to be provided to Controller, unless the parties otherwise agree, the Processor shall be responsible for ensuring that such processing of personal data complies with Applicable Data Protection Law requirements, includi ng, but not limited to, obtaining a lawful basis to process the personal data."
+  },
+  {
+    "clause_id": "D.10",
+    "heading": "This section is only applicable if : (1) Processor or a Subprocessor",
+    "text": "This section is only applicable if : (1) Processor or a Subprocessor is based in the UK or EEA; (2) Processor’s or such UK- or EEA-based Subprocessor’s Services include the trans fer of personal data from the UK or EEA to Controller ; and (3) data subjects have not explicitly consented to the transfer of their personal data to Controller in the United States : Unless the parties otherwise agree on another transfer mechanism that satisfies Applicable Data Protection Law requirements, transfers of personal data shall be governed by the Standard Contractual Clauses set forth in Addendum B to this Appendix GDPR ."
+  },
+  {
+    "clause_id": "D.11",
+    "heading": "Processor acknowledges that Controller is subject to U.S. federal and state laws",
+    "text": "Processor acknowledges that Controller is subject to U.S. federal and state laws and regulations, including but not limited to public disclosure and retention laws and regulations , that may require the retention and disclosure of information that is the subje ct of the Agreement."
+  },
+  {
+    "clause_id": "D.12",
+    "heading": "Within thirty (30) days of the termination",
+    "text": "Within thirty ( 30) days of the termination, cancellation, expira tion or other conclusion of this Appendix GDPR , Processor will deliver the Data to UC unless UC requests in writing that such 5 4/27/21 Data be destroyed. This provision will also apply to all Data that is in the possession of Subprocessors . Such destruction will be accomplished by “purging” or “physical destruction,” in accordance with National Institute of Standards and Technology (NIST) Special Publication 800 - 88 Guide to Media Sanitization . Processor will certify in writing to Controller that such delivery or destruction has been completed. In the event Applicable Data Protection Law requires the storage of such Data, the Processor shall promptly inform the Controller of such requirement in writing . In such instance, Processor will continue to protect the Data in accordance with the terms of this Appendix GDPR ."
+  },
+  {
+    "clause_id": "E",
+    "heading": "Data Subjects’ Rights",
+    "text": ""
+  },
+  {
+    "clause_id": "E.1",
+    "heading": "Unless Section D.9 of this Agreement applies",
+    "text": "Unless Section D.9 of this Agreement applies , the Controller shall be responsible for providing data subjects with any information required under Applicable Data Protection Law at the time of collecting such data subjects’ personal data , as well as any information requested by data subjects relating to the processing of their personal data ."
+  },
+  {
+    "clause_id": "E.2",
+    "heading": "The Processor shall notify the Controller",
+    "text": "The Processor shall notify the Controller (via the individual identified by UC in this Appendix GDPR ) in writing (including by e -mail) of each and any request that it receives from a data subject relating to a Data Subject Right . Such written notification shall be made promptly no later than two (2) business days following receipt of the request, and shall include any information in the Processor’s custody or control that may assist the Co ntroller to respond to the request."
+  },
+  {
+    "clause_id": "E.3",
+    "heading": "Unless otherwise required by Applicable Data Protection Law",
+    "text": "Unless otherwise required by Applicable Data Protection Law , the Processor shall not respond to any such requests or other communications the Processor receives from data subjects, without the prior written consent of the Controller."
+  },
+  {
+    "clause_id": "E.4",
+    "heading": "The Processor shall assist the Controller in Controller’s obligations",
+    "text": "The Processor shall assist the Controller in Controller’s obligations to respond to requests for exercising Data Subjects’ Rights by using appropriate technical and organizational measures, to the extent practicable given the nat ure of the processing of Data."
+  },
+  {
+    "clause_id": "F",
+    "heading": "Accountability",
+    "text": ""
+  },
+  {
+    "clause_id": "F.1",
+    "heading": "Upon written request from the Controller",
+    "text": "Upon written request from the Controller, the Processor shall make available to the Controller all information necessary to demonstrate compliance with its obligations under this Appendix GDPR . The Processor sh all make its records, documents, facilities, processes and individuals reasonably available to Controller or Controller’s designee for audits or inspections to demonstrate compliance with this Appendix GDPR ."
+  },
+  {
+    "clause_id": "F.2",
+    "heading": "The Processor shall immediately inform the Controller",
+    "text": "The Processor shall immediately inform the Controller if, in the Processor’s opinion, any instruction from the Controller with respect to the processing of Data pursuant to this Agreement violates or contradicts Applicable Data Protection Law ."
+  }
+]
+- Missing Clauses:
+    - Template clauses 1.1, 1.2, 1.3, 1.9, 1.10, 1.11 (specific definitions like "Authorized Employee," "Authorized Individual," "Authorized Subcontractor," "Subscription Services," "Standard Contractual Clauses," "Supervisory Authority" are either missing or redefined in the new document).
+    - Template clause 2.1 (Controller's obligations regarding compliance with Data Protection Laws and indemnification).
+    - Template clause 2.4 (Return or deletion of Personal Data after completion of services).
+    - Template clauses 3.1, 3.2, 3.3 (Detailed obligations regarding Authorized Employees, training, confidentiality, and access limitation).  
+    - Template clauses 4.1, 4.2.1, 4.2.2, 4.3, 4.4, 4.5, 4.6 (Detailed provisions on Authorized Subcontractors, including specific consent mechanisms, objection procedures, contractual obligations, liability, and SCC consent).
+    - Template clause 5.1 (General security measures, though D.3 in the new document covers similar ground with more detail).
+    - Template clause 6.1 (Specific mechanism for international data transfers using Standard Contractual Clauses).
+    - Template clause 7.1 (Processor's notification upon Data Subject Request and advising Data Subject to contact Controller).
+    - Template clause 8.1, 8.2 (Processor's assistance with DPIAs and consultation with Supervisory Authority, including cost allocation).     
+    - Template clause 8.3 (Processor's record-keeping obligations and Controller's audit rights for records).
+    - Template clause 8.7 (Exclusion of Processor liability for breaches due to Controller's actions/omissions, and non-acknowledgment of fault).
+    - Template clause 9.1 (Limitation of Liability, though the new document might refer to the main Agreement).
+    - Template EXHIBIT A (Details of Processing, though B.1 and Addendum A in the new document serve a similar purpose).
+    - Template EXHIBIT B (Standard Contractual Clauses, though Addendum B in the new document serves a similar purpose).
+    - All clauses from Clause 1 to Clause 12 and Appendices 1 and 2 of the Standard Contractual Clauses (these are specific legal text that should be included if SCCs are used, not just referenced).
+    - Template EXHIBIT C (Authorized Subcontractors list).
+
+- Potential Compliance Risks:
+    - **Ambiguous Definitions:** The new document redefines some terms or relies on "Applicable Data Protection Law" for definitions, which could lead to interpretation differences.
+    - **Subprocessor Management:** While the new document addresses subprocessors, the template's detailed consent mechanism, objection rights, and specific contractual requirements for subprocessors (e.g., "no less protective" obligations) are not fully replicated, increasing risk if not adequately covered elsewhere. The new document's C.1 allows general authorization but then requires specific authorization for transfers outside UK/EEA, which could be inconsistent or less protective than the template's approach.
+    - **International Data Transfers:** The template explicitly uses SCCs (C(2010)593) for transfers to non-adequate countries. The new document's D.10 references SCCs in Addendum B but only for specific scenarios (Processor/Subprocessor in UK/EEA transferring to Controller, and without explicit data subject consent). This narrow application might leave other transfer scenarios (e.g., Processor to Subprocessor outside UK/EEA) inadequately covered or reliant on general "prior written approval" which may not meet GDPR requirements for transfer mechanisms. The template's 6.1 is broader.
+    - **Data Subject Rights:** The template's 7.1 clearly states Processor advises Data Subject to contact Controller. The new document's E.2 requires Processor to notify Controller of requests but E.3 prohibits Processor from responding without Controller's consent, which is generally acceptable but the initial guidance to the data subject is missing.
+    - **Audit Rights:** The template's 8.3 and 8.4 provide more explicit and detailed audit rights for the Controller, including reviewing records and conducting inspections. The new document's F.1 is more general ("make its records, documents, facilities, processes and individuals reasonably available").
+    - **Data Deletion/Return:** The template's 2.4 and Clause 12 of SCCs are clear about return or deletion. The new document's D.12 specifies a 30-day window and NIST standards for destruction, which is good, but the template's explicit choice for Controller (return or delete) is slightly more direct.
+    - **Specific SCC Clauses:** If Addendum B is intended to incorporate SCCs, the actual text of the SCCs (Clauses 1-12 and Appendices) must be included, not just referenced. The template explicitly includes these. Without them, the contract is incomplete for international transfers relying on SCCs.
+    - **Liability:** The template's 9.1 links liability to the main Agreement. The SCCs (Clause 6) also have specific liability provisions that would be missing if the SCC text is not fully incorporated.
+
+- Risk Score (0-100): 75
+
+- Reasoning:
+    The new document attempts to address GDPR requirements but significantly deviates from the template, which is based on a regulatory standard (SCCs C(2010)593). Key definitions are altered or missing, and crucial operational details regarding subprocessor management, international data transfer mechanisms (especially the full incorporation of SCCs), and specific audit rights are either less robust or entirely absent compared to the template. The reliance on "Applicable Data Protection Law" for definitions without explicitly stating them can lead to ambiguity. The narrow application of SCCs in D.10 and the lack of the full SCC text are major compliance gaps for international transfers. The overall structure and specific wording are less prescriptive than the template, potentially leaving room for interpretation that could be unfavorable to the Controller in a regulatory context.
+
+- Recommendations:
+    1. **Harmonize Definitions:** Align definitions with the template where appropriate, or explicitly define all terms (e.g., "Authorized Employee," "Authorized Individual," "Authorized Subcontractor," "Subscription Services") to ensure clarity and consistency with GDPR terminology.  
+    2. **Full SCC Incorporation:** If international data transfers relying on Standard Contractual Clauses are anticipated, explicitly include the full text of the relevant Standard Contractual Clauses (including all clauses and appendices) as an addendum, rather than just referencing them. Ensure the correct version of SCCs (e.g., the new SCCs adopted by the EC in June 2021, if applicable, replacing C(2010)593) is used.     
+    3. **Strengthen Subprocessor Clauses:**
+        - Reintroduce a clear mechanism for Controller's prior written consent for all subprocessors, including an objection right similar to template 4.2.
+        - Explicitly state that subprocessor agreements must impose obligations "no less protective" than those on the Processor, as in template 4.4.
+        - Clarify Processor's liability for subprocessor acts and omissions, mirroring template 4.5.
+    4. **Enhance Audit Rights:** Reinsert more detailed audit rights for the Controller, including the right to review records and conduct inspections, similar to template 8.3 and 8.4, specifying frequency and cost allocation.
+    5. **Clarify Data Subject Request Handling:** Add a provision for the Processor to advise data subjects to direct their requests to the Controller, as in template 7.1.
+    6. **Data Retention/Deletion:** Ensure the Controller has a clear choice between return or destruction of data upon termination, as per template 2.4 and SCC Clause 12.
+    7. **DPIA and Supervisory Authority Assistance:** Explicitly include Processor's obligation to assist with Data Protection Impact Assessments and consultations with Supervisory Authorities, as in template 8.1 and 8.2, including cost allocation.
+    8. **Liability Clause:** Ensure the limitation of liability clause (if not fully covered in the main Agreement) is consistent with GDPR principles and any incorporated SCCs.
+    9. **Review for GDPR 2016/679:** The template references Directive 95/46/EC and "when effective, the GDPR." The new document references "Applicable Data Protection Law" which includes GDPR. Ensure all clauses are fully compliant with GDPR 2016/679, as the Directive is largely superseded.
+Comparison Result:
+ - Missing Clauses:
+    - Template clauses 1.1, 1.2, 1.3, 1.9, 1.10, 1.11 (specific definitions like "Authorized Employee," "Authorized Individual," "Authorized Subcontractor," "Subscription Services," "Standard Contractual Clauses," "Supervisory Authority" are either missing or redefined in the new document).
+    - Template clause 2.1 (Controller's obligations regarding compliance with Data Protection Laws and indemnification).
+    - Template clause 2.4 (Return or deletion of Personal Data after completion of services).
+    - Template clauses 3.1, 3.2, 3.3 (Detailed obligations regarding Authorized Employees, training, confidentiality, and access limitation).  
+    - Template clauses 4.1, 4.2.1, 4.2.2, 4.3, 4.4, 4.5, 4.6 (Detailed provisions on Authorized Subcontractors, including specific consent mechanisms, objection procedures, contractual obligations, liability, and SCC consent).
+    - Template clause 5.1 (General security measures, though D.3 in the new document covers similar ground with more detail).
+    - Template clause 6.1 (Specific mechanism for international data transfers using Standard Contractual Clauses).
+    - Template clause 7.1 (Processor's notification upon Data Subject Request and advising Data Subject to contact Controller).
+    - Template clause 8.1, 8.2 (Processor's assistance with DPIAs and consultation with Supervisory Authority, including cost allocation).     
+    - Template clause 8.3 (Processor's record-keeping obligations and Controller's audit rights for records).
+    - Template clause 8.7 (Exclusion of Processor liability for breaches due to Controller's actions/omissions, and non-acknowledgment of fault).
+    - Template clause 9.1 (Limitation of Liability, though the new document might refer to the main Agreement).
+    - Template EXHIBIT A (Details of Processing, though B.1 and Addendum A in the new document serve a similar purpose).
+    - Template EXHIBIT B (Standard Contractual Clauses, though Addendum B in the new document serves a similar purpose).
+    - All clauses from Clause 1 to Clause 12 and Appendices 1 and 2 of the Standard Contractual Clauses (these are specific legal text that should be included if SCCs are used, not just referenced).
+    - Template EXHIBIT C (Authorized Subcontractors list).
+
+- Potential Compliance Risks:
+    - **Ambiguous Definitions:** The new document redefines some terms or relies on "Applicable Data Protection Law" for definitions, which could lead to interpretation differences.
+    - **Subprocessor Management:** While the new document addresses subprocessors, the template's detailed consent mechanism, objection rights, and specific contractual requirements for subprocessors (e.g., "no less protective" obligations) are not fully replicated, increasing risk if not adequately covered elsewhere. The new document's C.1 allows general authorization but then requires specific authorization for transfers outside UK/EEA, which could be inconsistent or less protective than the template's approach.
+    - **International Data Transfers:** The template explicitly uses SCCs (C(2010)593) for transfers to non-adequate countries. The new document's D.10 references SCCs in Addendum B but only for specific scenarios (Processor/Subprocessor in UK/EEA transferring to Controller, and without explicit data subject consent). This narrow application might leave other transfer scenarios (e.g., Processor to Subprocessor outside UK/EEA) inadequately covered or reliant on general "prior written approval" which may not meet GDPR requirements for transfer mechanisms. The template's 6.1 is broader.
+    - **Data Subject Rights:** The template's 7.1 clearly states Processor advises Data Subject to contact Controller. The new document's E.2 requires Processor to notify Controller of requests but E.3 prohibits Processor from responding without Controller's consent, which is generally acceptable but the initial guidance to the data subject is missing.
+    - **Audit Rights:** The template's 8.3 and 8.4 provide more explicit and detailed audit rights for the Controller, including reviewing records and conducting inspections. The new document's F.1 is more general ("make its records, documents, facilities, processes and individuals reasonably available").
+    - **Data Deletion/Return:** The template's 2.4 and Clause 12 of SCCs are clear about return or deletion. The new document's D.12 specifies a 30-day window and NIST standards for destruction, which is good, but the template's explicit choice for Controller (return or delete) is slightly more direct.
+    - **Specific SCC Clauses:** If Addendum B is intended to incorporate SCCs, the actual text of the SCCs (Clauses 1-12 and Appendices) must be included, not just referenced. The template explicitly includes these. Without them, the contract is incomplete for international transfers relying on SCCs.
+    - **Liability:** The template's 9.1 links liability to the main Agreement. The SCCs (Clause 6) also have specific liability provisions that would be missing if the SCC text is not fully incorporated.
+
+- Risk Score (0-100): 75
+
+- Reasoning:
+    The new document attempts to address GDPR requirements but significantly deviates from the template, which is based on a regulatory standard (SCCs C(2010)593). Key definitions are altered or missing, and crucial operational details regarding subprocessor management, international data transfer mechanisms (especially the full incorporation of SCCs), and specific audit rights are either less robust or entirely absent compared to the template. The reliance on "Applicable Data Protection Law" for definitions without explicitly stating them can lead to ambiguity. The narrow application of SCCs in D.10 and the lack of the full SCC text are major compliance gaps for international transfers. The overall structure and specific wording are less prescriptive than the template, potentially leaving room for interpretation that could be unfavorable to the Controller in a regulatory context.
+
+- Recommendations:
+    1. **Harmonize Definitions:** Align definitions with the template where appropriate, or explicitly define all terms (e.g., "Authorized Employee," "Authorized Individual," "Authorized Subcontractor," "Subscription Services") to ensure clarity and consistency with GDPR terminology.  
+    2. **Full SCC Incorporation:** If international data transfers relying on Standard Contractual Clauses are anticipated, explicitly include the full text of the relevant Standard Contractual Clauses (including all clauses and appendices) as an addendum, rather than just referencing them. Ensure the correct version of SCCs (e.g., the new SCCs adopted by the EC in June 2021, if applicable, replacing C(2010)593) is used.     
+    3. **Strengthen Subprocessor Clauses:**
+        - Reintroduce a clear mechanism for Controller's prior written consent for all subprocessors, including an objection right similar to template 4.2.
+        - Explicitly state that subprocessor agreements must impose obligations "no less protective" than those on the Processor, as in template 4.4.
+        - Clarify Processor's liability for subprocessor acts and omissions, mirroring template 4.5.
+    4. **Enhance Audit Rights:** Reinsert more detailed audit rights for the Controller, including the right to review records and conduct inspections, similar to template 8.3 and 8.4, specifying frequency and cost allocation.
+    5. **Clarify Data Subject Request Handling:** Add a provision for the Processor to advise data subjects to direct their requests to the Controller, as in template 7.1.
+    6. **Data Retention/Deletion:** Ensure the Controller has a clear choice between return or destruction of data upon termination, as per template 2.4 and SCC Clause 12.
+    7. **DPIA and Supervisory Authority Assistance:** Explicitly include Processor's obligation to assist with Data Protection Impact Assessments and consultations with Supervisory Authorities, as in template 8.1 and 8.2, including cost allocation.
+    8. **Liability Clause:** Ensure the limitation of liability clause (if not fully covered in the main Agreement) is consistent with GDPR principles and any incorporated SCCs.
+    9. **Review for GDPR 2016/679:** The template references Directive 95/46/EC and "when effective, the GDPR." The new document references "Applicable Data Protection Law" which includes GDPR. Ensure all clauses are fully compliant with GDPR 2016/679, as the Directive is largely superseded.
+(venv) PS C:\CODE SOURCE\GDPR aggreement> 
+(venv) PS C:\CODE SOURCE\GDPR aggreement>

@@ -1,0 +1,11 @@
+Steps to run this code
+
+Step 1: You Should have python== 3.13
+
+Step 2: Set up a IDE(example visual studio code)
+
+Step 3: Install requirements
+
+Step 4: Run python data_extraction.python
+
+Step 5: Run streamlit run main.py
